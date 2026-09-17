@@ -40,38 +40,6 @@ I build backend services and AI-powered applications primarily with Python, with
 
 ---
 
-## Projects
-
-### University AI Assistant
-
-A Retrieval-Augmented Generation system designed to provide grounded answers from university documents.
-
-The backend implements document ingestion, vector retrieval, hybrid search, query rewriting, LLM integration, streaming responses, and source-aware answer generation.
-
-**Stack:** `Python` `FastAPI` `Pydantic` `ChromaDB` `Ollama` `RAG` `LLM`
-
----
-
-### Desktop Assistant
-
-A modular desktop AI agent designed around LLM-driven tool calling and system interaction.
-
-The project explores message and tool-call abstractions, application control, system automation, voice interaction, and extensible agent architecture.
-
-**Stack:** `Python` `Pydantic` `LLM` `Tool Calling`
-
----
-
-### Library Management System
-
-A library management system implemented in C using linked data structures and binary persistence.
-
-The project covers manual memory management, pointers, linked lists, structures, sorting, searching, and file I/O.
-
-**Stack:** `C` `Linked Lists` `Pointers` `Dynamic Memory` `File I/O`
-
----
-
 ## GitHub Statistics
 
 <p align="center">
