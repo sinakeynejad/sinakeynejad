@@ -20,6 +20,7 @@ My current focus is on backend architecture, databases, LLM applications, Retrie
 * Experience with C, pointers, dynamic memory, data structures, and file I/O
 * Working with relational databases using SQL and T-SQL
 * Familiar with containerization and development environments using Docker
+* Experience with Arduino and basic embedded systems development
 * Interested in software architecture and building complete systems rather than isolated scripts
 
 ---
@@ -58,6 +59,10 @@ My current focus is on backend architecture, databases, LLM applications, Retrie
 ![ChromaDB](https://img.shields.io/badge/Vector_DB-111111?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
 
+### Hardware & Embedded
+
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square\&logo=arduino\&logoColor=white)
+
 ### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
@@ -86,7 +91,7 @@ I'm currently expanding my knowledge in several areas of software engineering an
 
 My interests extend beyond a single technology or field. I'm particularly interested in systems where different areas of engineering meet:
 
-`Backend Engineering` · `Artificial Intelligence` · `LLM Systems` · `AI Agents` · `Databases` · `System Design` · `Electrical Engineering` · `Low-Level Programming`
+`Backend Engineering` · `Artificial Intelligence` · `LLM Systems` · `AI Agents` · `Databases` · `System Design` · `Electrical Engineering` · `Embedded Systems` · `Low-Level Programming`
 
 ---
 
@@ -111,6 +116,7 @@ Relational DB       SQL Server / T-SQL
 Vector DB           ChromaDB
 AI Systems          RAG / LLM / Tool Calling
 Infrastructure      Docker
+Embedded            Arduino
 Version Control     Git / GitHub
 ```
 
