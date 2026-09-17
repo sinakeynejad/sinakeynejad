@@ -1,6 +1,6 @@
 # Sina Keynejad
 
-### Electrical Engineering Student | Backend & AI Developer
+### Electrical Engineering Student | Backend Developer
 
 Electrical Engineering student at **K. N. Toosi University of Technology**, focused on backend development, AI systems, and software engineering.
 
