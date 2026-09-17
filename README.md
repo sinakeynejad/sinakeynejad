@@ -1,16 +1,94 @@
-## Hi there 👋
+# Sina Keynejad
 
-<!--
-**sinakeynejad/sinakeynejad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at **K. N. Toosi University of Technology**, focused on backend development, AI systems, and software engineering.
 
-Here are some ideas to get you started:
+I build backend services and AI-powered applications primarily with Python, with an interest in system architecture, databases, LLM applications, and lower-level programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=database\&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-111111?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=white)
+
+### Backend & AI
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-111111?style=flat-square\&logo=pydantic\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-111111?style=flat-square\&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-111111?style=flat-square\&logo=openai\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat-square\&logo=ollama\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=flat-square\&logoColor=white)
+
+### Database & Infrastructure
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-111111?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Vector_Database-111111?style=flat-square\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square\&logo=docker\&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square\&logo=postman\&logoColor=white)
+
+---
+
+## Projects
+
+### University AI Assistant
+
+A Retrieval-Augmented Generation system designed to provide grounded answers from university documents.
+
+The backend implements document ingestion, vector retrieval, hybrid search, query rewriting, LLM integration, streaming responses, and source-aware answer generation.
+
+**Stack:** `Python` `FastAPI` `Pydantic` `ChromaDB` `Ollama` `RAG` `LLM`
+
+---
+
+### Desktop Assistant
+
+A modular desktop AI agent designed around LLM-driven tool calling and system interaction.
+
+The project explores message and tool-call abstractions, application control, system automation, voice interaction, and extensible agent architecture.
+
+**Stack:** `Python` `Pydantic` `LLM` `Tool Calling`
+
+---
+
+### Library Management System
+
+A library management system implemented in C using linked data structures and binary persistence.
+
+The project covers manual memory management, pointers, linked lists, structures, sorting, searching, and file I/O.
+
+**Stack:** `C` `Linked Lists` `Pointers` `Dynamic Memory` `File I/O`
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinakeynejad&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinakeynejad&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinakeynejad&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/sinakeynejad">
+    <img src="https://img.shields.io/badge/GitHub-sinakeynejad-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
